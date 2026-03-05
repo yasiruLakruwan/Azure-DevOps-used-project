@@ -1,0 +1,1 @@
+model_path = "artifacts/model/model1.pkl"

@@ -1,4 +1,12 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: AzureDevOps
 Version: 0.0.1
 Author: Yasiru
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: joblib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist

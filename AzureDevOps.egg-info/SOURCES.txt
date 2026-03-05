@@ -2,4 +2,6 @@ setup.py
 AzureDevOps.egg-info/PKG-INFO
 AzureDevOps.egg-info/SOURCES.txt
 AzureDevOps.egg-info/dependency_links.txt
+AzureDevOps.egg-info/requires.txt
 AzureDevOps.egg-info/top_level.txt
+artifacts/__init__.py
